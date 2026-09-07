@@ -1,3 +1,5 @@
-numpy==2.5.2
-pandas==3.0.5
-matplotlib==3.11.1
+# Lower bounds, not pins: the scripts use long-stable APIs from all three, and
+# pinning exact versions previously broke `pip install -r` on a clean clone.
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
