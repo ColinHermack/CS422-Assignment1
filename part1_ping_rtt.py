@@ -84,19 +84,30 @@ def ping(host, count, timeout_ms):
     Note that Windows `ping` only reports whole milliseconds in its summary, so
     on Windows the three values are quantised to 1 ms.
     """
-    if platform.system() == 'Windows':
+    system = platform.system()
+    if system == 'Windows':
         cmd = ['ping', '-n', str(count), '-w', str(timeout_ms), host]
+    elif system == 'Darwin':
+        # BSD ping takes -W in milliseconds; Linux's iputils ping takes seconds.
+        cmd = ['ping', '-c', str(count), '-W', str(timeout_ms), host]
     else:
         cmd = ['ping', '-c', str(count), '-W', str(max(1, timeout_ms // 1000)), host]
+
+    # ping paces itself at roughly a second between probes whatever -W says, so
+    # wall time is set by that interval and not by the per-probe deadline. Budget
+    # for whichever is larger: sizing this on timeout_ms alone means a small
+    # --ping-timeout-ms kills ping mid-sweep and a live host is recorded as
+    # non-responsive.
+    per_probe_s = max(1.0, timeout_ms / 1000)
     try:
         out = subprocess.run(
             cmd, capture_output=True, text=True,
-            timeout=(timeout_ms / 1000) * count + 10,
+            timeout=per_probe_s * count + 10,
         ).stdout
     except (subprocess.TimeoutExpired, OSError):
         return None
 
-    if platform.system() == 'Windows':
+    if system == 'Windows':
         m = re.search(r'Minimum = (\d+)ms, Maximum = (\d+)ms, Average = (\d+)ms', out)
         return (float(m.group(1)), float(m.group(3)), float(m.group(2))) if m else None
     m = re.search(r'= ([\d.]+)/([\d.]+)/([\d.]+)/', out)
