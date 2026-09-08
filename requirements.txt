@@ -3,3 +3,5 @@
 numpy>=1.26
 pandas>=2.0
 matplotlib>=3.7
+Markdown>=3.10
+WeasyPrint>=70.0
