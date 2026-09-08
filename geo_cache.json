@@ -16,16 +16,16 @@
  "102.214.66.19": {
   "city": "Accra",
   "country": "Ghana",
-  "lat": 5.60372,
-  "lon": -0.186964,
-  "source": "ip-api"
+  "lat": 10.89557,
+  "lon": -1.0921,
+  "source": "ip2location-snapshot"
  },
  "102.214.66.39": {
   "city": "Accra",
   "country": "Ghana",
-  "lat": 5.60372,
-  "lon": -0.186964,
-  "source": "ip-api"
+  "lat": 10.89557,
+  "lon": -1.0921,
+  "source": "ip2location-snapshot"
  },
  "102.215.35.132": {
   "city": "Nairobi",
@@ -37,9 +37,9 @@
  "103.146.200.98": {
   "city": "Port Moresby",
   "country": "Papua New Guinea",
-  "lat": -9.43529,
-  "lon": 147.18,
-  "source": "ip-api"
+  "lat": -9.44314,
+  "lon": 147.17972,
+  "source": "ip2location-snapshot"
  },
  "103.214.44.130": {
   "city": "Manchester",
@@ -58,9 +58,9 @@
  "105.235.237.2": {
   "city": "Malabo",
   "country": "Equatorial Guinea",
-  "lat": 3.75496,
-  "lon": 8.78213,
-  "source": "ip-api"
+  "lat": 3.75,
+  "lon": 8.78333,
+  "source": "ip2location-snapshot"
  },
  "108.62.52.129": {
   "city": "New York",
@@ -72,25 +72,39 @@
  "109.61.86.65": {
   "city": "Boston",
   "country": "United States",
-  "lat": 42.3602,
-  "lon": -71.0594,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "109.61.94.65": {
   "city": "Lisbon",
   "country": "Portugal",
-  "lat": 38.7294,
-  "lon": -9.1538,
-  "source": "ip-api"
+  "lat": 38.716753,
+  "lon": -9.133368,
+  "source": "ip2location-snapshot"
  },
  "121.127.43.65": {
   "city": "Quer\u00e9taro",
   "country": "Mexico",
-  "lat": 15.834,
-  "lon": -92.7557,
-  "source": "ip-api"
+  "lat": 20.600095,
+  "lon": -100.383929,
+  "source": "ip2location-snapshot"
  },
  "128.210.106.78": {
+  "city": "West Lafayette",
+  "country": "United States",
+  "lat": 40.4444,
+  "lon": -86.9256,
+  "source": "ip-api"
+ },
+ "128.211.248.45": {
+  "city": "?",
+  "country": "?",
+  "lat": 40.42586,
+ "lon": -86.908104,
+ "source": "ip2location-snapshot"
+},
+ "128.211.254.124": {
   "city": "West Lafayette",
   "country": "United States",
   "lat": 40.4444,
@@ -100,23 +114,23 @@
  "138.199.14.66": {
   "city": "Marseille",
   "country": "France",
-  "lat": 43.2951,
-  "lon": 5.3861,
-  "source": "ip-api"
+  "lat": 45.0804,
+  "lon": 4.81421,
+  "source": "ip2location-snapshot"
  },
  "138.199.4.1": {
   "city": "S\u00e3o Paulo",
   "country": "Brazil",
-  "lat": -23.5475,
-  "lon": -46.6361,
-  "source": "ip-api"
+  "lat": -23.547121,
+  "lon": -46.637186,
+  "source": "ip2location-snapshot"
  },
  "138.199.57.129": {
   "city": "Toronto",
   "country": "Canada",
-  "lat": 43.709,
-  "lon": -79.4057,
-  "source": "ip-api"
+  "lat": 42.984116,
+  "lon": -81.233456,
+  "source": "ip2location-snapshot"
  },
  "139.60.160.88": {
   "city": "New York",
@@ -142,9 +156,9 @@
  "143.244.63.144": {
   "city": "Sydney",
   "country": "Australia",
-  "lat": -33.8672,
-  "lon": 151.1997,
-  "source": "ip-api"
+  "lat": -33.86778,
+  "lon": 151.207052,
+  "source": "ip2location-snapshot"
  },
  "145.0.6.51": {
   "city": "Utrecht",
@@ -163,23 +177,23 @@
  "148.230.45.213": {
   "city": "Madrid",
   "country": "Spain",
-  "lat": 40.4153,
-  "lon": -3.694,
-  "source": "ip-api"
+  "lat": 40.416818,
+  "lon": -3.684733,
+  "source": "ip2location-snapshot"
  },
  "148.230.59.38": {
   "city": "San Jose",
   "country": "United States",
-  "lat": 37.3388,
-  "lon": -121.8916,
-  "source": "ip-api"
+  "lat": 37.33939,
+  "lon": -121.89496,
+  "source": "ip2location-snapshot"
  },
  "148.230.60.200": {
   "city": "S\u00e3o Paulo",
   "country": "Brazil",
-  "lat": -23.5475,
-  "lon": -46.6361,
-  "source": "ip-api"
+  "lat": -23.547121,
+  "lon": -46.637186,
+  "source": "ip2location-snapshot"
  },
  "15.235.182.181": {
   "city": "Singapore",
@@ -191,30 +205,30 @@
  "154.81.51.4": {
   "city": "Sydney",
   "country": "Australia",
-  "lat": -33.8688,
-  "lon": 151.209,
-  "source": "ip-api"
+  "lat": -33.86778,
+  "lon": 151.207052,
+  "source": "ip2location-snapshot"
  },
  "156.146.40.65": {
   "city": "Bratislava",
   "country": "Slovakia",
-  "lat": 48.1504,
-  "lon": 17.1081,
-  "source": "ip-api"
+  "lat": 48.148209,
+  "lon": 17.106959,
+  "source": "ip2location-snapshot"
  },
  "156.146.52.1": {
   "city": "Istanbul",
   "country": "T\u00fcrkiye",
-  "lat": 41.0146,
-  "lon": 28.9532,
-  "source": "ip-api"
+  "lat": 41.01384,
+  "lon": 28.94966,
+  "source": "ip2location-snapshot"
  },
  "156.146.53.53": {
   "city": "San Jose",
   "country": "United States",
-  "lat": 37.3388,
-  "lon": -121.8916,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "157.250.201.61": {
   "city": "Secaucus",
@@ -233,9 +247,9 @@
  "160.242.19.254": {
   "city": "Luanda",
   "country": "Angola",
-  "lat": -8.81466,
-  "lon": 13.2302,
-  "source": "ip-api"
+  "lat": -8.90513,
+  "lon": 13.37499,
+  "source": "ip2location-snapshot"
  },
  "163.172.208.7": {
   "city": "Haarlem",
@@ -247,23 +261,23 @@
  "169.150.202.193": {
   "city": "Tel Aviv",
   "country": "Israel",
-  "lat": 32.0804,
-  "lon": 34.7807,
-  "source": "ip-api"
+  "lat": 32.09174,
+  "lon": 34.88503,
+  "source": "ip2location-snapshot"
  },
  "169.150.242.129": {
   "city": "Zagreb",
   "country": "Croatia",
-  "lat": 45.8293,
-  "lon": 15.9793,
-  "source": "ip-api"
+  "lat": 45.22222,
+  "lon": 19.37694,
+  "source": "ip2location-snapshot"
  },
  "169.150.252.2": {
   "city": "Athens",
   "country": "Greece",
-  "lat": 37.9842,
-  "lon": 23.7353,
-  "source": "ip-api"
+  "lat": 37.979452,
+  "lon": 23.716245,
+  "source": "ip2location-snapshot"
  },
  "170.83.216.19": {
   "city": "Santa Ana de Vuelta Larga",
@@ -275,16 +289,16 @@
  "173.243.131.29": {
   "city": "Ottawa",
   "country": "Canada",
-  "lat": 45.413,
-  "lon": -75.7011,
-  "source": "ip-api"
+  "lat": 45.41117,
+  "lon": -75.698,
+  "source": "ip2location-snapshot"
  },
  "176.23.128.102": {
   "city": "Singapore",
   "country": "Singapore",
-  "lat": 1.35208,
-  "lon": 103.82,
-  "source": "ip-api"
+  "lat": 1.289987,
+  "lon": 103.850281,
+  "source": "ip2location-snapshot"
  },
  "178.162.166.76": {
   "city": "Amsterdam",
@@ -303,9 +317,9 @@
  "178.215.228.109": {
   "city": "Frankfurt am Main",
   "country": "Germany",
-  "lat": 50.1169,
-  "lon": 8.6837,
-  "source": "ip-api"
+  "lat": 50.11088,
+  "lon": 8.681996,
+  "source": "ip2location-snapshot"
  },
  "178.217.143.20": {
   "city": "D\u0119bica",
@@ -317,23 +331,23 @@
  "185.102.217.170": {
   "city": "Bucharest",
   "country": "Romania",
-  "lat": 44.4291,
-  "lon": 26.1006,
-  "source": "ip-api"
+  "lat": 46.13333,
+  "lon": 20.31667,
+  "source": "ip2location-snapshot"
  },
  "185.102.218.1": {
   "city": "Amsterdam",
   "country": "The Netherlands",
-  "lat": 52.3716,
-  "lon": 4.8883,
-  "source": "ip-api"
+  "lat": 52.378502,
+  "lon": 4.89998,
+  "source": "ip2location-snapshot"
  },
  "185.102.219.93": {
   "city": "Frankfurt am Main",
   "country": "Germany",
-  "lat": 50.1169,
-  "lon": 8.6837,
-  "source": "ip-api"
+  "lat": 50.11088,
+  "lon": 8.681996,
+  "source": "ip2location-snapshot"
  },
  "185.118.248.162": {
   "city": "Nyk\u00f8bing Falster",
@@ -366,30 +380,30 @@
  "185.152.65.113": {
   "city": "Prague",
   "country": "Czechia",
-  "lat": 50.0883,
-  "lon": 14.4124,
-  "source": "ip-api"
+  "lat": 49.57672,
+  "lon": 18.76458,
+  "source": "ip2location-snapshot"
  },
  "185.152.66.67": {
   "city": "Atlanta",
   "country": "United States",
-  "lat": 33.7485,
-  "lon": -84.3871,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "185.152.67.2": {
   "city": "Los Angeles",
   "country": "United States",
-  "lat": 34.0544,
-  "lon": -118.244,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "185.180.12.40": {
   "city": "Vienna",
   "country": "Austria",
-  "lat": 48.2049,
-  "lon": 16.3662,
-  "source": "ip-api"
+  "lat": 48.20889,
+  "lon": 16.37208,
+  "source": "ip2location-snapshot"
  },
  "185.182.195.76": {
   "city": "Naaldwijk",
@@ -408,37 +422,37 @@
  "185.246.208.67": {
   "city": "Warsaw",
   "country": "Poland",
-  "lat": 52.2299,
-  "lon": 21.0093,
-  "source": "ip-api"
+  "lat": 52.22977,
+  "lon": 21.01178,
+  "source": "ip2location-snapshot"
  },
  "185.3.160.57": {
   "city": "Brussels",
   "country": "Belgium",
-  "lat": 50.8476,
-  "lon": 4.35717,
-  "source": "ip-api"
+  "lat": 50.85085,
+  "lon": 4.34878,
+  "source": "ip2location-snapshot"
  },
  "185.59.221.51": {
   "city": "London",
   "country": "United Kingdom",
-  "lat": 51.5081,
-  "lon": -0.1278,
-  "source": "ip-api"
+  "lat": 51.50853,
+  "lon": -0.12574,
+  "source": "ip2location-snapshot"
  },
  "185.59.223.8": {
   "city": "New York",
   "country": "United States",
-  "lat": 40.7126,
-  "lon": -74.0066,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "185.76.9.135": {
   "city": "Stockholm",
   "country": "Sweden",
-  "lat": 59.3287,
-  "lon": 18.0717,
-  "source": "ip-api"
+  "lat": 59.332748,
+  "lon": 18.064841,
+  "source": "ip2location-snapshot"
  },
  "185.84.224.68": {
   "city": "Frankfurt am Main",
@@ -450,44 +464,44 @@
  "185.93.1.65": {
   "city": "Chicago",
   "country": "United States",
-  "lat": 41.8483,
-  "lon": -87.6517,
-  "source": "ip-api"
+  "lat": 41.875772,
+  "lon": -87.620606,
+  "source": "ip2location-snapshot"
  },
  "185.93.2.193": {
   "city": "Paris",
   "country": "France",
-  "lat": 48.8558,
-  "lon": 2.3494,
-  "source": "ip-api"
+  "lat": 48.859078,
+  "lon": 2.293486,
+  "source": "ip2location-snapshot"
  },
  "185.93.3.50": {
   "city": "Madrid",
   "country": "Spain",
-  "lat": 40.4153,
-  "lon": -3.694,
-  "source": "ip-api"
+  "lat": 40.416818,
+  "lon": -3.684733,
+  "source": "ip2location-snapshot"
  },
  "189.25.101.151": {
   "city": "Dubai",
   "country": "United Arab Emirates",
-  "lat": 25.0734,
-  "lon": 55.2979,
-  "source": "ip-api"
+  "lat": 25.25847,
+  "lon": 55.30472,
+  "source": "ip2location-snapshot"
  },
  "189.25.97.217": {
   "city": "Dubai",
   "country": "United Arab Emirates",
-  "lat": 25.0734,
-  "lon": 55.2979,
-  "source": "ip-api"
+  "lat": 25.25847,
+  "lon": 55.30472,
+  "source": "ip2location-snapshot"
  },
  "189.25.98.63": {
   "city": "Taipei",
   "country": "Taiwan",
-  "lat": 25.053,
-  "lon": 121.5259,
-  "source": "ip-api"
+  "lat": 25.038171,
+  "lon": 121.563599,
+  "source": "ip2location-snapshot"
  },
  "193.106.164.10": {
   "city": "Kjellerup",
@@ -541,9 +555,9 @@
  "195.181.162.195": {
   "city": "Miami",
   "country": "United States",
-  "lat": 25.7701,
-  "lon": -80.1928,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "195.69.189.215": {
   "city": "Tashkent",
@@ -562,9 +576,9 @@
  "197.227.12.18": {
   "city": "Rose Hill",
   "country": "Mauritius",
-  "lat": -20.2397,
-  "lon": 57.4722,
-  "source": "ip-api"
+  "lat": -20.16194,
+  "lon": 57.49889,
+  "source": "ip2location-snapshot"
  },
  "197.227.5.218": {
   "city": "Rose Hill",
@@ -611,16 +625,16 @@
  "204.155.243.172": {
   "city": "Toronto",
   "country": "Canada",
-  "lat": 43.709,
-  "lon": -79.4057,
-  "source": "ip-api"
+  "lat": 43.653661,
+  "lon": -79.382924,
+  "source": "ip2location-snapshot"
  },
  "207.211.214.65": {
   "city": "Brussels",
   "country": "Belgium",
-  "lat": 50.8534,
-  "lon": 4.347,
-  "source": "ip-api"
+  "lat": 50.42689,
+  "lon": 6.20504,
+  "source": "ip2location-snapshot"
  },
  "208.110.65.2": {
   "city": "Kansas City",
@@ -632,9 +646,9 @@
  "209.40.123.215": {
   "city": "Dallas",
   "country": "United States",
-  "lat": 32.7797,
-  "lon": -96.8022,
-  "source": "ip-api"
+  "lat": 32.78306,
+  "lon": -96.8065,
+  "source": "ip2location-snapshot"
  },
  "209.58.159.68": {
   "city": "Dallas",
@@ -660,9 +674,9 @@
  "212.60.92.134": {
   "city": "Bijilo",
   "country": "Gambia",
-  "lat": 13.4256,
-  "lon": -16.7397,
-  "source": "ip-api"
+  "lat": 13.452884,
+  "lon": -16.578124,
+  "source": "ip2location-snapshot"
  },
  "212.76.127.243": {
   "city": "Jerusalem",
@@ -681,9 +695,9 @@
  "213.158.175.240": {
   "city": "Giza",
   "country": "Egypt",
-  "lat": 30.0383,
-  "lon": 31.2102,
-  "source": "ip-api"
+  "lat": 30.06263,
+  "lon": 31.24967,
+  "source": "ip2location-snapshot"
  },
  "213.209.106.95": {
   "city": "Hamburg",
@@ -709,9 +723,9 @@
  "217.61.40.96": {
   "city": "Ponte San Pietro",
   "country": "Italy",
-  "lat": 45.7059,
-  "lon": 9.5872,
-  "source": "ip-api"
+  "lat": 45.69628,
+  "lon": 9.58485,
+  "source": "ip2location-snapshot"
  },
  "23.105.41.222": {
   "city": "Dallas",
@@ -765,30 +779,30 @@
  "23.249.54.234": {
   "city": "Miami",
   "country": "United States",
-  "lat": 25.7701,
-  "lon": -80.1928,
-  "source": "ip-api"
+  "lat": 25.77427,
+  "lon": -80.1936,
+  "source": "ip2location-snapshot"
  },
  "23.249.55.42": {
   "city": "Dubai",
   "country": "United Arab Emirates",
-  "lat": 25.0734,
-  "lon": 55.2979,
-  "source": "ip-api"
+  "lat": 25.25847,
+  "lon": 55.30472,
+  "source": "ip2location-snapshot"
  },
  "23.249.58.14": {
   "city": "Hong Kong",
   "country": "Hong Kong",
-  "lat": 22.3193,
-  "lon": 114.169,
-  "source": "ip-api"
+  "lat": 22.28552,
+  "lon": 114.15769,
+  "source": "ip2location-snapshot"
  },
  "23.249.60.154": {
   "city": "Tokyo",
   "country": "Japan",
-  "lat": 35.6893,
-  "lon": 139.6899,
-  "source": "ip-api"
+  "lat": 35.689497,
+  "lon": 139.692317,
+  "source": "ip2location-snapshot"
  },
  "23.81.166.99": {
   "city": "San Jose",
@@ -842,44 +856,44 @@
  "37.19.203.1": {
   "city": "Sofia",
   "country": "Bulgaria",
-  "lat": 42.6951,
-  "lon": 23.325,
-  "source": "ip-api"
+  "lat": 43.88778,
+  "lon": 22.52139,
+  "source": "ip2location-snapshot"
  },
  "37.19.206.20": {
   "city": "Ashburn",
   "country": "United States",
-  "lat": 39.0469,
-  "lon": -77.4903,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "37.19.216.1": {
   "city": "Houston",
   "country": "United States",
-  "lat": 29.7646,
-  "lon": -95.3657,
-  "source": "ip-api"
+  "lat": 37.129071,
+  "lon": -84.083417,
+  "source": "ip2location-snapshot"
  },
  "37.19.218.65": {
   "city": "Kyiv",
   "country": "Ukraine",
-  "lat": 50.458,
-  "lon": 30.5303,
-  "source": "ip-api"
+  "lat": 50.45466,
+  "lon": 30.5238,
+  "source": "ip2location-snapshot"
  },
  "41.110.39.130": {
   "city": "Ben Aknoun",
   "country": "Algeria",
-  "lat": 36.7598,
-  "lon": 3.01369,
-  "source": "ip-api"
+  "lat": 36.7525,
+  "lon": 3.04197,
+  "source": "ip2location-snapshot"
  },
  "41.210.185.162": {
   "city": "Kampala",
   "country": "Uganda",
-  "lat": 0.321,
-  "lon": 32.5714,
-  "source": "ip-api"
+  "lat": 0.316785,
+  "lon": 32.581768,
+  "source": "ip2location-snapshot"
  },
  "45.147.210.189": {
   "city": "Paris",
@@ -912,9 +926,9 @@
  "49.205.75.2": {
   "city": "Bengaluru",
   "country": "India",
-  "lat": 12.9753,
-  "lon": 77.591,
-  "source": "ip-api"
+  "lat": 12.97623,
+  "lon": 77.60329,
+  "source": "ip2location-snapshot"
  },
  "5.180.211.133": {
   "city": "Canary Wharf",
@@ -1017,37 +1031,37 @@
  "66.35.20.123": {
   "city": "San Jose",
   "country": "United States",
-  "lat": 37.3388,
-  "lon": -121.8916,
-  "source": "ip-api"
+  "lat": 37.33939,
+  "lon": -121.89496,
+  "source": "ip2location-snapshot"
  },
  "66.35.22.79": {
   "city": "Ashburn",
   "country": "United States",
-  "lat": 39.0469,
-  "lon": -77.4903,
-  "source": "ip-api"
+  "lat": 39.039474,
+  "lon": -77.491809,
+  "source": "ip2location-snapshot"
  },
  "66.35.27.207": {
   "city": "Dallas",
   "country": "United States",
-  "lat": 32.7797,
-  "lon": -96.8022,
-  "source": "ip-api"
+  "lat": 32.78306,
+  "lon": -96.8065,
+  "source": "ip2location-snapshot"
  },
  "66.35.30.9": {
   "city": "Vancouver",
   "country": "Canada",
-  "lat": 49.2476,
-  "lon": -123.1234,
-  "source": "ip-api"
+  "lat": 49.24082,
+  "lon": -123.116713,
+  "source": "ip2location-snapshot"
  },
  "66.35.31.81": {
   "city": "Tokyo",
   "country": "Japan",
-  "lat": 35.6893,
-  "lon": 139.6899,
-  "source": "ip-api"
+  "lat": 35.689497,
+  "lon": 139.692317,
+  "source": "ip2location-snapshot"
  },
  "69.168.185.43": {
   "city": "Calgary",
@@ -1059,30 +1073,30 @@
  "69.48.236.198": {
   "city": "Pune",
   "country": "India",
-  "lat": 18.5211,
-  "lon": 73.8502,
-  "source": "ip-api"
+  "lat": 18.519663,
+  "lon": 73.854508,
+  "source": "ip2location-snapshot"
  },
  "69.48.237.66": {
   "city": "Istanbul",
   "country": "T\u00fcrkiye",
-  "lat": 41.0146,
-  "lon": 28.9532,
-  "source": "ip-api"
+  "lat": 41.01384,
+  "lon": 28.94966,
+  "source": "ip2location-snapshot"
  },
  "69.48.238.200": {
   "city": "Dubai",
   "country": "United Arab Emirates",
-  "lat": 25.0734,
-  "lon": 55.2979,
-  "source": "ip-api"
+  "lat": 25.25847,
+  "lon": 55.30472,
+  "source": "ip2location-snapshot"
  },
  "69.48.239.124": {
   "city": "Johannesburg",
   "country": "South Africa",
-  "lat": -26.2309,
-  "lon": 28.0583,
-  "source": "ip-api"
+  "lat": -26.20225,
+  "lon": 28.04355,
+  "source": "ip2location-snapshot"
  },
  "69.79.207.214": {
   "city": "Nain",
@@ -1101,9 +1115,9 @@
  "72.1.86.46": {
   "city": "Auckland",
   "country": "New Zealand",
-  "lat": -36.8504,
-  "lon": 174.7675,
-  "source": "ip-api"
+  "lat": -36.86667,
+  "lon": 174.76667,
+  "source": "ip2location-snapshot"
  },
  "74.49.158.20": {
   "city": "Montreal",
@@ -1129,9 +1143,9 @@
  "79.127.209.1": {
   "city": "Santiago",
   "country": "Chile",
-  "lat": -33.4521,
-  "lon": -70.6536,
-  "source": "ip-api"
+  "lat": -33.426498,
+  "lon": -70.566522,
+  "source": "ip2location-snapshot"
  },
  "80.67.167.93": {
   "city": "Paris",
@@ -1157,30 +1171,30 @@
  "84.17.41.11": {
   "city": "Seattle",
   "country": "United States",
-  "lat": 47.6109,
-  "lon": -122.3303,
-  "source": "ip-api"
+  "lat": 47.604309,
+  "lon": -122.329845,
+  "source": "ip2location-snapshot"
  },
  "84.17.57.129": {
   "city": "Hong Kong",
   "country": "Hong Kong",
-  "lat": 22.3193,
-  "lon": 114.169,
-  "source": "ip-api"
+  "lat": 22.28552,
+  "lon": 114.15769,
+  "source": "ip2location-snapshot"
  },
  "84.17.59.129": {
   "city": "Milan",
   "country": "Italy",
-  "lat": 45.4722,
-  "lon": 9.1922,
-  "source": "ip-api"
+  "lat": 45.464336,
+  "lon": 9.188547,
+  "source": "ip2location-snapshot"
  },
  "87.249.137.8": {
   "city": "Dublin",
   "country": "Ireland",
-  "lat": 53.3354,
-  "lon": -6.252,
-  "source": "ip-api"
+  "lat": 51.50853,
+  "lon": -0.12574,
+  "source": "ip2location-snapshot"
  },
  "88.213.191.247": {
   "city": "Schaffhausen",
@@ -1199,30 +1213,30 @@
  "89.187.160.1": {
   "city": "Tokyo",
   "country": "Japan",
-  "lat": 35.6893,
-  "lon": 139.6899,
-  "source": "ip-api"
+  "lat": 35.689497,
+  "lon": 139.692317,
+  "source": "ip2location-snapshot"
  },
  "89.187.162.1": {
   "city": "Singapore",
   "country": "Singapore",
-  "lat": 1.35208,
-  "lon": 103.82,
-  "source": "ip-api"
+  "lat": 1.289987,
+  "lon": 103.850281,
+  "source": "ip2location-snapshot"
  },
  "89.187.164.1": {
   "city": "Dallas",
   "country": "United States",
-  "lat": 32.7797,
-  "lon": -96.8022,
-  "source": "ip-api"
+  "lat": 32.78306,
+  "lon": -96.8065,
+  "source": "ip2location-snapshot"
  },
  "89.187.165.1": {
   "city": "Zurich",
   "country": "Switzerland",
-  "lat": 47.3643,
-  "lon": 8.5437,
-  "source": "ip-api"
+  "lat": 47.366825,
+  "lon": 8.54979,
+  "source": "ip2location-snapshot"
  },
  "91.199.118.184": {
   "city": "Frankfurt am Main",
@@ -1269,50 +1283,722 @@
  "96.45.38.22": {
   "city": "Singapore",
   "country": "Singapore",
-  "lat": 1.35208,
-  "lon": 103.82,
-  "source": "ip-api"
+  "lat": 1.289987,
+  "lon": 103.850281,
+  "source": "ip2location-snapshot"
  },
  "96.45.39.38": {
   "city": "Frankfurt am Main",
   "country": "Germany",
-  "lat": 50.1169,
-  "lon": 8.6837,
-  "source": "ip-api"
+  "lat": 50.11088,
+  "lon": 8.681996,
+  "source": "ip2location-snapshot"
  },
  "96.45.40.45": {
   "city": "City of London",
   "country": "United Kingdom",
-  "lat": 51.5164,
-  "lon": -0.093,
-  "source": "ip-api"
+  "lat": 51.50853,
+  "lon": -0.12574,
+  "source": "ip2location-snapshot"
  },
  "96.45.41.167": {
   "city": "Valbonne",
   "country": "France",
-  "lat": 43.6319,
-  "lon": 7.0043,
-  "source": "ip-api"
+  "lat": 43.63292,
+  "lon": 6.99911,
+  "source": "ip2location-snapshot"
  },
  "96.45.42.156": {
   "city": "Paris",
   "country": "France",
-  "lat": 48.8558,
-  "lon": 2.3494,
-  "source": "ip-api"
+  "lat": 48.859078,
+  "lon": 2.293486,
+  "source": "ip2location-snapshot"
  },
  "96.45.43.6": {
   "city": "Toronto",
   "country": "Canada",
-  "lat": 43.709,
-  "lon": -79.4057,
-  "source": "ip-api"
+  "lat": 43.653661,
+  "lon": -79.382924,
+  "source": "ip2location-snapshot"
  },
  "96.45.44.87": {
   "city": "Sydney",
   "country": "Australia",
-  "lat": -33.8672,
-  "lon": 151.1997,
-  "source": "ip-api"
+  "lat": -33.86778,
+  "lon": 151.207052,
+  "source": "ip2location-snapshot"
+ },
+ "a110.speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.42452,
+  "lon": 10.7815,
+  "source": "ip2location-snapshot"
+ },
+ "a204.speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 50.930426,
+  "lon": 10.264465,
+  "source": "ip2location-snapshot"
+ },
+ "a205.speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.42452,
+  "lon": 10.7815,
+  "source": "ip2location-snapshot"
+ },
+ "a208.speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.42452,
+  "lon": 10.7815,
+  "source": "ip2location-snapshot"
+ },
+ "a209.speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.42452,
+  "lon": 10.7815,
+  "source": "ip2location-snapshot"
+ },
+ "a210.speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.42452,
+  "lon": 10.7815,
+  "source": "ip2location-snapshot"
+ },
+ "a400.speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.42452,
+  "lon": 10.7815,
+  "source": "ip2location-snapshot"
+ },
+ "akl.linetest.nz": {
+  "city": "?",
+  "country": "?",
+  "lat": -36.86667,
+  "lon": 174.76667,
+  "source": "ip2location-snapshot"
+ },
+ "ams.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.378502,
+  "lon": 4.89998,
+  "source": "ip2location-snapshot"
+ },
+ "ash.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 39.039474,
+  "lon": -77.491809,
+  "source": "ip2location-snapshot"
+ },
+ "atl.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 33.748795,
+  "lon": -84.387543,
+  "source": "ip2location-snapshot"
+ },
+ "bwtest.linxtelecom.com": {
+  "city": "?",
+  "country": "?",
+  "lat": 59.43696,
+  "lon": 24.75353,
+  "source": "ip2location-snapshot"
+ },
+ "chch.linetest.nz": {
+  "city": "?",
+  "country": "?",
+  "lat": -36.86667,
+  "lon": 174.76667,
+  "source": "ip2location-snapshot"
+ },
+ "chi.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 41.875772,
+  "lon": -87.620606,
+  "source": "ip2location-snapshot"
+ },
+ "coverage1.mobicom.mn": {
+  "city": "?",
+  "country": "?",
+  "lat": 47.90771,
+  "lon": 106.88324,
+  "source": "ip2location-snapshot"
+ },
+ "dal.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 32.78306,
+  "lon": -96.8065,
+  "source": "ip2location-snapshot"
+ },
+ "dfw.speedtest.is.cc": {
+  "city": "?",
+  "country": "?",
+  "lat": 40.796744,
+  "lon": -74.055555,
+  "source": "ip2location-snapshot"
+ },
+ "fra.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 50.11088,
+  "lon": 8.681996,
+  "source": "ip2location-snapshot"
+ },
+ "iperf-ams-nl.eranium.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 51.964899,
+  "lon": 6.288529,
+  "source": "ip2location-snapshot"
+ },
+ "iperf.as42831.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.40656,
+  "lon": -1.51217,
+  "source": "ip2location-snapshot"
+ },
+ "iperf.fegis.nu": {
+  "city": "?",
+  "country": "?",
+  "lat": 59.332748,
+  "lon": 18.064841,
+  "source": "ip2location-snapshot"
+ },
+ "iperf.online.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 48.859078,
+  "lon": 2.293486,
+  "source": "ip2location-snapshot"
+ },
+ "iperf.pendc.com": {
+  "city": "?",
+  "country": "?",
+  "lat": 40.27194,
+  "lon": 29.09833,
+  "source": "ip2location-snapshot"
+ },
+ "iperf.worldstream.nl": {
+  "city": "?",
+  "country": "?",
+  "lat": 51.994063,
+  "lon": 4.209895,
+  "source": "ip2location-snapshot"
+ },
+ "iperf1.surfwireless.nl": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.0911,
+  "lon": 5.1221,
+  "source": "ip2location-snapshot"
+ },
+ "iperf3-vie-at.alwyzon.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 48.20889,
+  "lon": 16.37208,
+  "source": "ip2location-snapshot"
+ },
+ "iperf3.moji.fr": {
+  "city": "?",
+  "country": "?",
+  "lat": 48.859078,
+  "lon": 2.293486,
+  "source": "ip2location-snapshot"
+ },
+ "it1.speedtest.aruba.it": {
+  "city": "?",
+  "country": "?",
+  "lat": 43.461442,
+  "lon": 11.87696,
+  "source": "ip2location-snapshot"
+ },
+ "la.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 34.052571,
+  "lon": -118.243907,
+  "source": "ip2location-snapshot"
+ },
+ "lg.gigahost.no": {
+  "city": "?",
+  "country": "?",
+  "lat": 59.131199,
+  "lon": 10.216684,
+  "source": "ip2location-snapshot"
+ },
+ "lon.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 51.50853,
+  "lon": -0.12574,
+  "source": "ip2location-snapshot"
+ },
+ "man.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 53.48095,
+  "lon": -2.23743,
+  "source": "ip2location-snapshot"
+ },
+ "nl.speed.vps1.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.525001,
+  "lon": 5.717999,
+  "source": "ip2location-snapshot"
+ },
+ "phx.speedtest.clouvider.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 33.448232,
+  "lon": -112.074054,
+  "source": "ip2location-snapshot"
+ },
+ "ping-90ms.online.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 48.859078,
+  "lon": 2.293486,
+  "source": "ip2location-snapshot"
+ },
+ "ping-ams1.online.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.378502,
+  "lon": 4.89998,
+  "source": "ip2location-snapshot"
+ },
+ "ping.online.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 48.859078,
+  "lon": 2.293486,
+  "source": "ip2location-snapshot"
+ },
+ "sgp.proof.ovh.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 1.289987,
+  "lon": 103.850281,
+  "source": "ip2location-snapshot"
+ },
+ "spd-icsrv.hostkey.com": {
+  "city": "?",
+  "country": "?",
+  "lat": 64.135548,
+  "lon": -21.895985,
+  "source": "ip2location-snapshot"
+ },
+ "speed-cb.dimensione.com": {
+  "city": "?",
+  "country": "?",
+  "lat": 41.56003,
+  "lon": 14.66753,
+  "source": "ip2location-snapshot"
+ },
+ "speed.cosmonova.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 50.45466,
+  "lon": 30.5238,
+  "source": "ip2location-snapshot"
+ },
+ "speed.mymanga.pro": {
+  "city": "?",
+  "country": "?",
+  "lat": -1.28333,
+  "lon": 36.81667,
+  "source": "ip2location-snapshot"
+ },
+ "speed.netfiber.net.il": {
+  "city": "?",
+  "country": "?",
+  "lat": 32.09174,
+  "lon": 34.88503,
+  "source": "ip2location-snapshot"
+ },
+ "speed.rimon.net.il": {
+  "city": "?",
+  "country": "?",
+  "lat": 32.09174,
+  "lon": 34.88503,
+  "source": "ip2location-snapshot"
+ },
+ "speed1.fiberby.dk": {
+  "city": "?",
+  "country": "?",
+  "lat": 55.67934,
+  "lon": 12.535292,
+  "source": "ip2location-snapshot"
+ },
+ "speed2.fiberby.dk": {
+  "city": "?",
+  "country": "?",
+  "lat": 55.67594,
+  "lon": 12.56553,
+  "source": "ip2location-snapshot"
+ },
+ "speedsrv.multinet24.pl": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.22977,
+  "lon": 21.01178,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.ams1.nl.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.378502,
+  "lon": 4.89998,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.ams2.nl.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.378502,
+  "lon": 4.89998,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.chi11.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 41.875772,
+  "lon": -87.620606,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.dal13.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 32.78306,
+  "lon": -96.8065,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.fra1.de.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 50.11088,
+  "lon": 8.681996,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.goco.ca": {
+  "city": "?",
+  "country": "?",
+  "lat": 45.50884,
+  "lon": -73.58781,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.hiper.dk": {
+  "city": "?",
+  "country": "?",
+  "lat": 55.67594,
+  "lon": 12.56553,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.hkg12.hk.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 22.28552,
+  "lon": 114.15769,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.init7.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 47.500476,
+  "lon": 8.749907,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.ip-projects.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 50.518435,
+  "lon": 8.107754,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.iway.ch": {
+  "city": "?",
+  "country": "?",
+  "lat": 47.366825,
+  "lon": 8.54979,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.kamel.network": {
+  "city": "?",
+  "country": "?",
+  "lat": 59.332748,
+  "lon": 18.064841,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.lagoon.nc": {
+  "city": "?",
+  "country": "?",
+  "lat": -22.276328,
+  "lon": 166.457151,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.lax12.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 32.78306,
+  "lon": -96.8065,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.level66.services": {
+  "city": "?",
+  "country": "?",
+  "lat": 50.11088,
+  "lon": 8.681996,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.lon1.uk.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 51.50853,
+  "lon": -0.12574,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.lon12.uk.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 51.50971,
+  "lon": -0.0016,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.masnet.ec": {
+  "city": "?",
+  "country": "?",
+  "lat": -1.05,
+  "lon": -80.45,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.mia11.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 25.77427,
+  "lon": -80.1936,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.milkywan.fr": {
+  "city": "?",
+  "country": "?",
+  "lat": 48.859078,
+  "lon": 2.293486,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.mtl2.ca.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 45.50884,
+  "lon": -73.58781,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.netone.nl": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.378502,
+  "lon": 4.89998,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.nl1.mirhosting.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.029195,
+  "lon": 5.080222,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.nocix.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 39.09973,
+  "lon": -94.57857,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.nyc1.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 40.713192,
+  "lon": -74.006065,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.phx1.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 33.448232,
+  "lon": -112.074054,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.rapidswitch.com": {
+  "city": "?",
+  "country": "?",
+  "lat": 53.48095,
+  "lon": -2.23743,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.sea11.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 47.604309,
+  "lon": -122.329845,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.sfo12.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 37.77493,
+  "lon": -122.41942,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.shinternet.ch": {
+  "city": "?",
+  "country": "?",
+  "lat": 46.948089,
+  "lon": 7.447452,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.sin1.sg.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 1.289987,
+  "lon": 103.850281,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.syd12.au.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": -42.874638,
+  "lon": 147.328061,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.tangerang2.myrepublic.net.id": {
+  "city": "?",
+  "country": "?",
+  "lat": -6.208678,
+  "lon": 106.845493,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.tyo11.jp.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 35.689497,
+  "lon": 139.692317,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.uztelecom.uz": {
+  "city": "?",
+  "country": "?",
+  "lat": 39.65417,
+  "lon": 66.95972,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.wdc2.us.leaseweb.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 38.750998,
+  "lon": -77.475166,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.wobcom.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 52.524526,
+  "lon": 13.410037,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.wtnet.de": {
+  "city": "?",
+  "country": "?",
+  "lat": 53.686004,
+  "lon": 9.980291,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest.xmission.com": {
+  "city": "?",
+  "country": "?",
+  "lat": 40.76078,
+  "lon": -111.89105,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest1.cwpanama.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 8.99361,
+  "lon": -79.519767,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest1.flowjamaica.com": {
+  "city": "?",
+  "country": "?",
+  "lat": 17.99702,
+  "lon": -76.79358,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest1.sox.rs": {
+  "city": "?",
+  "country": "?",
+  "lat": 44.804141,
+  "lon": 20.465825,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest2.lightningfibre.net.uk": {
+  "city": "?",
+  "country": "?",
+  "lat": 50.82338,
+  "lon": 0.2447,
+  "source": "ip2location-snapshot"
+ },
+ "speedtest6.cwpanama.net": {
+  "city": "?",
+  "country": "?",
+  "lat": 8.99361,
+  "lon": -79.519767,
+  "source": "ip2location-snapshot"
+ },
+ "speedtestfl.telecom.mu": {
+  "city": "?",
+  "country": "?",
+  "lat": -20.16194,
+  "lon": 57.49889,
+  "source": "ip2location-snapshot"
+ },
+ "speedtestlondon.telecom.mu": {
+  "city": "?",
+  "country": "?",
+  "lat": -20.16194,
+  "lon": 57.49889,
+  "source": "ip2location-snapshot"
+ },
+ "syd.proof.ovh.net": {
+  "city": "?",
+  "country": "?",
+  "lat": -33.86778,
+  "lon": 151.207052,
+  "source": "ip2location-snapshot"
+ },
+ "t5.cscs.ch": {
+  "city": "?",
+  "country": "?",
+  "lat": 46.010084,
+  "lon": 8.960003,
+  "source": "ip2location-snapshot"
+ },
+ "yyc-speedtest.xplore.ca": {
+  "city": "?",
+  "country": "?",
+  "lat": 46.15796,
+  "lon": -67.58377,
+  "source": "ip2location-snapshot"
  }
 }

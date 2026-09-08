@@ -162,9 +162,18 @@ class Geolocator:
         """Resolve and geolocate every host, using cache/DB/API as available."""
         hosts = list(dict.fromkeys(hosts))
 
+        # A cache entry keyed by the original hostname is a stable snapshot of
+        # that destination.  Prefer it to DNS resolution so a hostname moving
+        # to another address does not also move an already measured data point.
+        by_host = {
+            host: Location(**self._cache[host])
+            for host in hosts if host in self._cache
+        }
+        unresolved = [host for host in hosts if host not in by_host]
+
         with ThreadPoolExecutor(max_workers=32) as pool:
-            ips = list(pool.map(resolve, hosts))
-        host_ip = {host: ip for host, ip in zip(hosts, ips) if ip}
+            ips = list(pool.map(resolve, unresolved))
+        host_ip = {host: ip for host, ip in zip(unresolved, ips) if ip}
 
         unknown = sorted({ip for ip in host_ip.values() if ip not in self._cache})
 
@@ -183,10 +192,11 @@ class Geolocator:
         elif unknown:
             print(f'{len(unknown)} addresses not in cache and lookups are offline')
 
-        self._by_host = {
+        by_host.update({
             host: Location(**self._cache[ip])
             for host, ip in host_ip.items() if ip in self._cache
-        }
+        })
+        self._by_host = by_host
         self.save_cache()
         return self._by_host
 
