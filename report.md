@@ -1,5 +1,9 @@
 # CS 422: Assignment 1 — Network Latencies, Ping & Traceroute
 
+**AI Use Acknowledgment:** OpenAI Codex and Anthropic Claude were used to generate
+complete sections of code, stress-test the implementation, and draft and polish this
+report. All AI-generated work was reviewed and verified by the group.
+
 **Repository:** https://github.com/ColinHermack/CS422-Assignment1
 
 ## Group Members
